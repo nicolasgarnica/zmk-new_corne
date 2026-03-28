@@ -132,7 +132,7 @@
             sensor-bindings = <&scroll_encoder>;
         };
 
-        nav_layer {
+        layer_4 {
             display-name = "NAV";
             bindings = 
 &trans  &trans    &trans    &trans    &trans     &trans                                   &mmv MOVE_UP                     &trans    &trans    &trans    &trans     &trans   &trans
